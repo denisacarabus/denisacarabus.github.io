@@ -7,6 +7,7 @@
 [Formule cu MathJax](mathjax.md)
 
 [Matrici si ecuatii](mathjax2.md)
+
 ***
 
 # Implementarea relatiilor in Markdown
