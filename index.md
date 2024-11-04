@@ -8,7 +8,7 @@
 
 [Matrici si ecuatii](mathjax2.md)
 
-[Diagrame Mermaid](/Diagrame.md)
+[Diagrame Mermaid](/Diagrame/mermaid.md)
 
 
 ***
