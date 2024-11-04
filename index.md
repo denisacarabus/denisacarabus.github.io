@@ -8,6 +8,9 @@
 
 [Matrici si ecuatii](mathjax2.md)
 
+[Diagrame Mermaid](/Diagrame.md)
+
+
 ***
 
 # Implementarea relatiilor in Markdown
